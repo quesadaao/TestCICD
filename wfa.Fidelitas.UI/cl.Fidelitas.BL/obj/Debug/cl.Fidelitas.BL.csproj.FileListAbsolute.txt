@@ -1,0 +1,51 @@
+C:\0-Important\zzPersonal\Fidelitas\2017-II-Cua\SC-535 P IV\Code\w2\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.BL.dll
+C:\0-Important\zzPersonal\Fidelitas\2017-II-Cua\SC-535 P IV\Code\w2\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.BL.pdb
+C:\0-Important\zzPersonal\Fidelitas\2017-II-Cua\SC-535 P IV\Code\w2\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.csprojResolveAssemblyReference.cache
+C:\0-Important\zzPersonal\Fidelitas\2017-II-Cua\SC-535 P IV\Code\w2\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.dll
+C:\0-Important\zzPersonal\Fidelitas\2017-II-Cua\SC-535 P IV\Code\w2\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w2\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.csprojResolveAssemblyReference.cache
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w2\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.dll
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w2\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w2\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.BL.dll
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w2\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.BL.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w2\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.Datos.dll
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w2\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.Datos.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w4\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.BL.dll
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w4\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.BL.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w4\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.DAL.dll
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w4\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.Datos.dll
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w4\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.DAL.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w4\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.Datos.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w4\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.csprojResolveAssemblyReference.cache
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w4\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.dll
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w4\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.BL.dll
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.BL.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.DAL.dll
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.Datos.dll
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.DAL.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.Datos.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.csprojResolveAssemblyReference.cache
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.dll
+C:\0-Importante\Universidad\Fidelitas\2017-II-Cua\Programacion IV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.BL.dll
+C:\0-Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.BL.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.DAL.dll
+C:\0-Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.Datos.dll
+C:\0-Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.DAL.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.Datos.pdb
+C:\0-Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.csprojResolveAssemblyReference.cache
+C:\0-Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.dll
+C:\0-Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.pdb
+C:\0Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.BL.dll
+C:\0Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.BL.pdb
+C:\0Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.DAL.dll
+C:\0Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.Datos.dll
+C:\0Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.DAL.pdb
+C:\0Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.DAL.dll.config
+C:\0Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\bin\Debug\cl.Fidelitas.Datos.pdb
+C:\0Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.csprojAssemblyReference.cache
+C:\0Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.csproj.CoreCompileInputs.cache
+C:\0Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.csproj.CopyComplete
+C:\0Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.dll
+C:\0Importante\Universidad\Fidelitas\2017-III-Cua\Bach\535-PIV\Codigo\w5\wfa.Fidelitas.UI\cl.Fidelitas.BL\obj\Debug\cl.Fidelitas.BL.pdb

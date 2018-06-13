@@ -1,0 +1,8 @@
+CREATE TABLE [dbo].[Persona](
+	[iCedula] [int] NULL,
+	[vNombre] [varchar](50) NULL,
+	[bMuerto] [bit] NULL,
+	[dtNacimiento] [date] NULL,
+	[iEdad] [int] NULL,
+	[vEmail] [varchar](50) NULL
+) ON [PRIMARY]
